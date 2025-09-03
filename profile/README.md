@@ -21,9 +21,7 @@ We help developers shift API testing left, remove dependencies on downstream sys
 - [specmatic/specmatic](https://github.com/specmatic/specmatic): The main CLI and Java library for contract-driven development.
   
 ### 🧪 Sample Projects
-- [specmatic/sample-project](https://github.com/specmatic/sample-project): A basic microservices example with OpenAPI contracts and contract tests.
-- [specmatic/kafka-contract-tests](https://github.com/specmatic/kafka-contract-tests): Example for Kafka contract testing with Specmatic.
-- [specmatic/pact-to-specmatic](https://github.com/specmatic/pact-to-specmatic): Tool to convert Pact contracts to OpenAPI, making them usable with Specmatic.
+- [Full list of sample projects](https://docs.specmatic.io/documentation/sample_projects.html)
 
 ### 🔄 Integrations
 - [Specmatic Insights GitHub build reporter action](https://github.com/marketplace/actions/specmatic-insights-build-reporter-for-github-action)
